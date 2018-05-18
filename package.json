@@ -25,6 +25,7 @@
         "dev-server": "webpack-dev-server --mode development"
     },
     "dependencies": {
+        "marked": "^0.3.19",
         "react": "^16.3.2",
         "react-dom": "^16.3.2"
     },
